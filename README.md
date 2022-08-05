@@ -9,7 +9,7 @@
 #### Labs in FB026 book: [Labs](https://github.com/jumbokh/microbit-class/tree/main/doc/FB026/labs)
 ##
 #### 用micro:bit和KSR030機械人套件學運算思維
-* [KSR030](https://www.buyic.com.tw/product_info.php?products_id=6866&Twesid=ilhbm89gs1m5if6n932up0ghc0)
+* [KSR030 Buyic網站](https://www.buyic.com.tw/product_info.php?products_id=6866&Twesid=ilhbm89gs1m5if6n932up0ghc0) 
 * [KSR030 Robot kit 教學網站](http://ksr030.kaise.com.tw/)
 * [KSR030 範例下載網址](http://ksr030.kaise.com.tw/docs/KSR030_hex.zip)
     * [舵機校正](https://github.com/jumbokh/microbit-class/blob/main/KSR030_hex/microbit-EX001-1_1.hex)
