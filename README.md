@@ -47,7 +47,9 @@
     * [範例二 microbit-EX105_2.hex](https://github.com/jumbokh/microbit-class/blob/main/KSR030_hex/microbit-EX105_2.hex)
 #### 仿生獸
 ##
-#### 機械人實作 01 甲蟲爪子定位
+#### [機械人實作 01 甲蟲爪子定位](http://ksr030.kaise.com.tw/docs/EX201.html)
 * [範例一 microbit-EX201_1.hex](https://github.com/jumbokh/microbit-class/blob/main/KSR030_hex/microbit-EX201_1.hex)
 * [範例二 microbit-EX201_2.hex](https://github.com/jumbokh/microbit-class/blob/main/KSR030_hex/microbit-EX202.hex)
+#### [機械人實作 02 連桿自走獸](http://ksr030.kaise.com.tw/docs/EX202.html)
+* [範例一 microbit-EX202.hex](https://github.com/jumbokh/microbit-class/blob/main/KSR030_hex/microbit-EX202.hex)
 
